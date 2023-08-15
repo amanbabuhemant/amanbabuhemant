@@ -4,13 +4,13 @@ A passionate college student who's enthusiastic about coding, exploring new tech
 
 - 🌱 I’m currently learning and working on exciting Python projects.
 - 💬 Ask me about Python, web development, and anything tech-related.
-- 🤝 I’m open to collaborating on interesting projects and contributing to the open-source community.
-<!--
+- 🤝 I’m open to collaborating on interesting projects and contributions.
+- <!--
 ### 🌐 Websites
 
 Check out my websites:
-- [Artizote](https://artizote.com) - A platform for creative minds to showcase their art.
-- [HTMLify](https://htmlify.artizote.com) - Convert your plain text into beautiful HTML.
+- [Artizote](http://artizote.com)
+- [HTMLify](http://htmlify.artizote.com)
 -->
 ### 📈 GitHub Stats
 
@@ -20,5 +20,5 @@ Check out my websites:
 
 Feel free to connect with me on social media platforms and let's chat about coding, ideas and technology.
 
-[Instagram](https://instagram.com/abh.py)
+[Instagram](https://instagram.com/abh.py)<br>
 [Twitter](https://twitter.com/amanbabuhemant)
